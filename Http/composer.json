@@ -1,5 +1,6 @@
 {
     "name": "acme/http",
+    "version": "1.0.0",
     "description": "HTTP component",
     "type": "library",
     "minimum-stability": "dev",

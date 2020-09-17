@@ -1,5 +1,6 @@
 {
     "name": "acme/form",
+    "version": "1.0.0",
     "description": "Form component",
     "type": "library",
     "minimum-stability": "dev",
