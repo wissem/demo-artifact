@@ -4,6 +4,7 @@
     "type": "library",
     "minimum-stability": "dev",
     "replace": {
+"twig/extensions": "^1.3"
     },
     "require": {}
 }
