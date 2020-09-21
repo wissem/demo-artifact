@@ -5,5 +5,7 @@
     "minimum-stability": "dev",
     "replace": {
     },
-    "require": {}
+    "require": {
+	"symfony/monolog-bundle": "^3.5"
+}
 }
