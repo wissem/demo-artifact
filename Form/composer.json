@@ -1,6 +1,6 @@
 {
     "name": "acme/form",
-    "description": "ACME Form component - test webhook",
+    "description": "ACME Form component - test webhook ",
     "type": "library",
     "minimum-stability": "dev",
     "replace": {
