@@ -4,8 +4,8 @@
     "type": "library",
     "minimum-stability": "dev",
     "replace": {
+"symfony/monolog-bundle": "^3.5"
     },
     "require": {
-	"symfony/monolog-bundle": "^3.5"
 }
 }
